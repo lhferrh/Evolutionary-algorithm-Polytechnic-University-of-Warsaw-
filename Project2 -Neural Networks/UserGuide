@@ -1,1 +1,7 @@
+1º-Read pdfs
+2º-Load the scripts
 
+# This project was realize using mathlab. To execute the script you should download matlab and execute the scripts. The script 
+use some mathlab function, so you will need to download the correct libraries as well.
+I did it for a Evolutionary Algorithms in the Polytechnic of Warsaw and I got a qualification of 6 due to I did not find the overfitting 
+when you are using too many neural networks to train and test.
